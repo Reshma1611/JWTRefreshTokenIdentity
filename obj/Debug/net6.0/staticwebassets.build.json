@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ETdY1uUKd999cYfr4huR10+Pq9PA1U0omeB3gNx0e7U=",
+  "Source": "JWTRefreshTokenIdentity",
+  "BasePath": "_content/JWTRefreshTokenIdentity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
